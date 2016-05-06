@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Had a tutor look over work.
+// This code was written by Hunter Nelson for a project at The University of Alabama.
 
 int money = 50;
 int max = 300;
